@@ -1,7 +1,7 @@
 _This project has been created as part of the 42 curriculum by yelu_
 
 # NetPractice
-_________________
+
 #### Description
 
 NetPractice is a project at 42 designed to provide a deep dive into the world of computer networking. The goal is to configure small-scale networks by solving a series of 10 levels that involve addressing, routing, and subnetting.
