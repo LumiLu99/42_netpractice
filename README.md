@@ -2,13 +2,13 @@ _This project has been created as part of the 42 curriculum by yelu_
 
 # NetPractice
 
-#### Description
+### Description
 
 NetPractice is a project at 42 designed to provide a deep dive into the world of computer networking. The goal is to configure small-scale networks by solving a series of 10 levels that involve addressing, routing, and subnetting.
 
 The project covers the fundamental logic of how devices communicate within a private network and how they reach the outside world (the Internet) through gateways. By the end of this project, I have gained understanding on how to manage IP ranges and ensure connectivity across multiple interfaces.
 
-#### Instructions
+### Instructions
 
 To begin the training interface:
 1. Download net_practice.1.9.tgz attached to the project's page.
@@ -26,7 +26,7 @@ To begin the training interface:
 7. During evaluation, the evaluation tab can be used. The evaluatee will have to successfully complete three random levels, as mentioned on the training platform. They will have a limited amount of time to do so.
 
 
-#### Resources
+### Resources
 
 **OSI Model**: A conceptual framework used to understand network interactions in seven layers. In this project, we focus primarily on the Physical (Layer 1), Data Link (Layer 2), and Network (Layer 3) layers to manage how bits, frames, and packets move across the infrastructure.
 
@@ -52,12 +52,12 @@ Level 4 is about TCP and UDP ports while level 5, 6 and 7 are handled by the sof
 
 **Routers vs Switches**: Switches facilitate communication within a single network (using MAC addresses), while routers facilitate communication between different networks (using IP addresses). A switch connects multiple devices together, whereas a router connects multiple switches/networks together.
 
-#### Submission Details
+### Submission Details
 
 All 10 exported configuration files must be submitted into the root repository folder. It is important to enter your login in the interface to fetch the configuration files correctly. 
 
 
-#### References
+### References
 
 [Subnet Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html) - For quick CIDR to Subnet Mask conversions.
 
